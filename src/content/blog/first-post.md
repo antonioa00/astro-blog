@@ -1,7 +1,7 @@
 ---
 title: "Link Utili"
 description: "Collezione di link utili a chi scrive"
-pubDate: "Undefined"
+pubDate: "Jul 08 2022"
 heroImage: "/placeholder-hero.jpg"
 ---
 
