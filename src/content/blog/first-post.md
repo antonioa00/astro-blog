@@ -15,5 +15,5 @@ Rxjs - best practices <br>
 https://betterprogramming.pub/rxjs-best-practices-7f559d811514
 
 Esempi colloqui <br>
-https://youtu.be/GkyzFWJXPWk
+https://youtu.be/GkyzFWJXPWk <br>
 https://www.youtube.com/watch?v=0a6Uy-x9Hjs
