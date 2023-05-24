@@ -20,3 +20,6 @@ https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
 Esempi colloqui <br>
 https://youtu.be/GkyzFWJXPWk <br>
 https://www.youtube.com/watch?v=0a6Uy-x9Hjs
+
+Domande colloquio <br>
+https://imgur.com/0f24ed05-f02f-4a93-a227-d15e17917f3a
